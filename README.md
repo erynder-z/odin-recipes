@@ -1,0 +1,1 @@
+A standard website built from scratch using HTML and CSS.
