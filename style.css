@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    display: inline-block;
+    background-color: wheat;
+}
+
+.ingredientsBack {
+    background-color: salmon;
+    color: whitesmoke;
+}
+
+.stepsBack {
+    background-color: teal;
+    color: whitesmoke;
+}
+
+#tomyumBack {
+    margin-top: 0;
+    background-color: rgb(214, 103, 12);
+    color: whitesmoke;
+}
+
+#bratwurstBack {
+    margin-top: 0;
+    background-color: rgb(36, 122, 55);
+    color: whitesmoke;
+}
+
+#spaghettiBack {
+    margin-top: 0;
+    background-color: rgb(122, 36, 111);
+    color: whitesmoke;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.image-container {
+    margin: auto;
+    width: max-content;
+}
+
+.image {
+    width: 750px;
+    height: auto;
+}
